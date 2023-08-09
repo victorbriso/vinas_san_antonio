@@ -274,10 +274,10 @@ return [
             'className' => 'Cake\Database\Connection',
             'driver' => 'Cake\Database\Driver\Mysql',
             'persistent' => false,
-            'host' => '45.239.108.252',
-            'username' => 'vinosdes_root',
-            'password' => '*+Ak84m]nvLM444sff@',
-            'database' => 'vinosdes_avvsa',
+            'host' => '*****',
+            'username' => '*****',
+            'password' => '*****',
+            'database' => '*****',
             'encoding' => 'utf8',
             'cacheMetadata' => true
     
